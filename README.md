@@ -1,0 +1,2 @@
+# Hypothesis-testing-on-YouTube-viewership-weekend-views-versus-weekday-views-
+YouTube a great digital platform as a means of marketing through uploading product or service videos. Using the YouTube data on popular You Tubers, we would like to know when it’s optimum to upload a video is it during the weekend or on a weekday so as to increase video viewership, brand awareness, social engagement and business development.
